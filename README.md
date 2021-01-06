@@ -17,5 +17,7 @@
  
  - You should pick athletes in this order : Footballer, Basketballer, Footballer, Basketballer... Otherwise the game will not allow you to play your card.
  - You should pick Footballer against Footballer and Basketballer against Basketballer. Otherwise the game will not allow you to play your card.
+ 
+ The source code is in master branch.
       
    
