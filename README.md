@@ -1,6 +1,6 @@
 # card-game
 
-                                                           ATHLETE CARD GAME
+ ATHLETE CARD GAME
                                                                                                                                                                                   It's a basic card game which is played against cpu and created with UI. It's written in Java and Swing which is a GUI widget toolkit for Java. I've used Eclipse IDE as IDE.
  
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
